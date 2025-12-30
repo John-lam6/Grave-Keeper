@@ -1,0 +1,5 @@
+In this game, you move with WASD and shoot with left-mouse button. Reload will happen automatically when you have 0 bullets, but you can also press R for reload. The point of this game is to survive as long as possible while killing zombies along the way. Score is handled by seconds survived and how many of each type of zombies killed. In the title screen, you can navigate to the leaderboard to see the top 5 scores with the gun used. In the title screen, you can also navigate to start the game, where you can choose your weapon of choice, then it'll start the game. Each weapon has different attack speeds, damage, range, and pierce. You can press ESC for the pause menu and ESC once more to resume.
+
+To change languages, go to the LanguageManager game object and switch out the language in the Assets/Scripts/LanguageManager/Languages.
+
+To see the assets used, go to Assets.txt.

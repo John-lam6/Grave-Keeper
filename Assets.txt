@@ -1,0 +1,21 @@
+Water Fountain: https://assetstore.unity.com/packages/3d/props/exterior/water-fountain-round-four-tier-pbr-299380
+Ground material: https://kedco-assets.itch.io/texture-pack
+Graveyard pack: assetstore.unity.com/packages/p/spooky-graveyard-pack-156860
+Poly Halloween pack: assetstore.unity.com/packages/p/poly-halloween-pack-236625
+Low Poly Simple Graveyard: https://assetstore.unity.com/packages/3d/environments/dungeons/low-poly-simple-graveyard-134110
+Low Poly Pine Forest: assetstore.unity.com/packages/p/low-poly-pine-forest-312113
+Low Poly Trees: https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
+Halloween Pack: https://assetstore.unity.com/packages/p/halloween-pack-cemetery-snap-235573
+Graves: https://assetstore.unity.com/packages/3d/environments/urban/colonial-city-littlepack-163089
+Skyboxes: assetstore.unity.com/packages/p/10-skyboxes-pack-day-night-32236
+Low Poly Nature: assetstore.unity.com/packages/p/lowpoly-environment-nature-free-medieval-fantasy-series-187052
+Character: https://assetstore.unity.com/packages/3d/characters/humanoids/lowpoly-survival-character-rio-273074
+Zombie: https://assetstore.unity.com/packages/3d/characters/humanoids/3d-characters-zombie-city-streets-lowpoly-pack-lite-277409
+Zombie animations: https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/zombie-monster-animations-free-259680
+Background images: https://blenderartists.org/uploads/default/optimized/4X/b/5/3/b53c84ac3a3381d9a4ef14f2904f0a051636b7ec_2_1024x576.jpeg
+https://files.123freevectors.com/wp-content/original/131249-dark-grey-low-poly-abstract-background-design-vector.jpg
+https://www.vecteezy.com/vector-art/5879819-solid-black-low-poly-background-abstract-geometric-triangular-style-vector-illustration-graphic-design-background-template
+Soldier animation: https://assetstore.unity.com/packages/3d/characters/toon-soldiers-demo-69684
+Weapons: https://assetstore.unity.com/packages/3d/props/weapons/weapons-free-low-poly-3d-models-pack-260492
+
+Zombie Sound Pack: https://assetstore.unity.com/packages/p/zombie-sound-pack-free-version-124430
