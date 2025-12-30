@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68e5bb62bad58094b955600e84e6cd38, type: 3}
+  m_Name: French
+  m_EditorClassIdentifier: 
+  languageDictionary:
+    m_keys:
+    - Title
+    - Start_Game
+    - Leaderboard
+    - Quit
+    - Score
+    - Shotgun
+    - Assault_Rifle
+    - Sniper_Rifle
+    - Game_End
+    - Retry
+    - Main_Menu
+    - Total_Score
+    - Paused
+    - Resume
+    - Attack_Speed
+    - Back
+    - Assault Rifle
+    - Sniper Rifle
+    - Time
+    - Select_Gun
+    - Start
+    - Damage
+    - Bullets_P_Shot
+    - Reload_Time
+    - Max_Ammo
+    - Can_Pierce
+    m_values:
+    - GARDIEN DE TOMBE
+    - COMMENCER
+    - CLASSEMENT
+    - QUITTER
+    - Score
+    - "Fusil \xE0 Pompe"
+    - Fusil D'assaut
+    - Fusil De Sniper
+    - FIN DE PARTIE
+    - "R\xC9ESSAYER"
+    - MENU PRINCIPAL
+    - Score Total
+    - EN PAUSE
+    - REPRENDRE
+    - "Vitesse D\u2019attaque"
+    - RETOUR
+    - Fusil D'assaut
+    - Fusil De Sniper
+    - Temps
+    - "Choisissez d\u2019abord une arme"
+    - "D\xC9MARRER"
+    - "D\xE9g\xE2ts"
+    - Projectiles / Tir
+    - Temps De Rechargement
+    - Munitions Max
+    - Peut Traverser
